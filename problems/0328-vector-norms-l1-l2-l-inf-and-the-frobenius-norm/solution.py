@@ -14,19 +14,21 @@ def compute_norm(arr: torch.Tensor, norm_type: str) -> float:
     Returns:
         The computed norm as a float
     """
-    # Your code here
     match norm_type:
-        case "l1":
+        case 'l1':
             return arr.abs().sum().item()
-        case "l2":
-           return arr.square().sum().sqrt().item()
-        case "linf":
+        case 'l2':
+            return arr.square().sum().sqrt().item()
+        case 'linf':
             return arr.abs().max().item()
-        case "frobenius":
+        case 'frobenius':
             if arr.dim() != 2:
                 raise ValueError()
             return arr.square().sum().sqrt().item()
         case _:
             raise ValueError()
     
-    #pass
+    
+
+
+
