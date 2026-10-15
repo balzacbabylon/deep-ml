@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 13 problems · 0 labs · 2 math
+**16** solved · 13 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-10 | [solution](math/0030-ml-workflow-basics) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-10-15 | [solution](math/0011-determinants-and-trace) |
+| [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-15 | [solution](math/0012-inverse-and-rank) |
 
 ---
 
