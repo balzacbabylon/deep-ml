@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:34:00.583Z",
+  "generated_at": "2026-11-08T18:13:59.235Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -385,6 +385,17 @@
       "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
       "first_solved_at": "2026-11-08T17:33:59.901Z",
       "last_pushed_at": "2026-11-08T17:33:59.901Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-11-08T18:13:58.532Z",
+      "last_pushed_at": "2026-11-08T18:13:58.532Z"
     }
   }
 }
