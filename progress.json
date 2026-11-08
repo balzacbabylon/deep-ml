@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:05:08.034Z",
+  "generated_at": "2026-11-08T12:30:21.094Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -350,6 +350,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-10-30T21:05:07.443Z",
       "last_pushed_at": "2026-10-30T21:05:07.443Z"
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-11-08T12:30:20.419Z",
+      "last_pushed_at": "2026-11-08T12:30:20.419Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
